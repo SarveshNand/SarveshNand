@@ -1,3 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=200&pause=1000&color=85F4F7&background=37FFF600&center=true&vCenter=true&random=true&width=435&height=60&lines=Learning+Data+,+AI/ML+and+more...+;Always+ready+to+be+a+part+of+the+team.;Want+to+connect+with+me%3F+Me+too.;Low-Level+is+Great+(But+I'm+doing+Middle-Level).;Let's+Build+a+Project+Together+(On+Discord%3F).)](https://git.io/typing-svg)
+# 👨‍💻 Sarvesh Nand  
+**Aspiring Cyber Threat Intelligence Analyst | SOC Enthusiast | BCA Student**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=200&size=17&pause=1000&color=F7DEC2&background=37FFF600&center=true&vCenter=true&random=true&width=435&height=60&lines=Eager+to+learn+new+things.;Hope+to+be+a+part+of+the+team.;Best+way+to+feel+guilty+is+to+build+a+project+together.;Exploring+Tech%2C+AI+and+Opportunities+%3A);Middle+Level+-%3E+C%2FC%2B%2B%2FRust%2C+etc.+Low-Level+-%3E+ASM.;Can+aim+for+many+Competitions+if+you+want+to+%3A)" alt="Typing SVG" /></a>
+📍 Jaunpur, Uttar Pradesh, India  
+📞 +91 7054009176  
+📧 tensaibaka007@gmail.com  
+🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://linkedin.com/in/sarvesh-nand)
+
+---
+
+## 🧠 About Me
+
+I’m a cybersecurity learner currently pursuing my BCA (2023–2026) with a focus on **Cyber Threat Intelligence (CTI)** and **Security Operations Center (SOC)**. I'm building a strong foundation in threat detection, OSINT techniques, and cyber defense workflows. I'm passionate about national security, threat actor analysis, and open-source research — and I'm actively seeking internships and opportunities in these domains.
+
+---
+
+## 🔐 Core Competencies
+
+### 🛡️ Cybersecurity & Threat Intelligence
+- CTI Fundamentals: TTPs, IOCs, Threat Actor Profiling
+- OSINT & Surface-level Dark Web Monitoring
+- MITRE ATT&CK, CIA Triad, Cybercrime Awareness
+
+### 💻 Networking & Operating Systems
+- OSI Model, IP/Subnetting, TCP/IP, DNS
+- Kali Linux, Parrot OS, Windows Security Basics
+- Nmap, Wireshark, VirtualBox
+
+### ⚙️ Tools & Platforms
+- TryHackMe (Pre-Security & SOC1 Paths)
+- VirusTotal, Shodan, Google Dorks
+- GitHub (Learning Logs, Study Projects)
+
+### 🧠 Soft Skills
+- Analytical Mindset • Self-Motivated • Detail-Oriented  
+- Languages: Hindi (Native), English (Conversational)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+*Veer Bahadur Singh Purvanchal University*  
+📅 Aug 2023 – Aug 2026 *(Expected)*
+
+**Senior Secondary School**  
+*Maa Durga Ji Sr. Sec. School, Siddiquepur, Jaunpur*  
+📅 May 2015 – Jun 2023
+
+---
+
+## 📜 Certifications
+
+- **Foundation Level Threat Intelligence Analyst** – arcX *(Jul 2025)*  
+  `Credential ID: cdbcee1bd5fdf9edffddcf1ca192d3783f0ca4dd`
+- **Cyber Threat Intelligence 101** – arcX  
+- **Generative AI for Educators** – Google Digital Academy *(Dec 2024)*  
+  `Credential ID: 352890335`
+
+---
+
+## 🚀 Learning Focus (2024–2025)
+
+- Practicing SOC alert triage and SIEM basics (Wazuh)
+- Following threat reports (Mandiant, Recorded Future)
+- OSINT Recon & Intelligence Reporting Practice
+- Tools Exploration: TheHive, Maltego, Yeti, Sigma
+
+---
+
+## 📫 Contact Me
+
+I’m open to freelance work, internships, collaborations, or just connecting with like-minded professionals. Feel free to reach out via [LinkedIn](https://linkedin.com/in/sarvesh-nand) or [email](mailto:tensaibaka007@gmail.com).
+
+---
+
+_Thanks for visiting my profile! 🌐_
