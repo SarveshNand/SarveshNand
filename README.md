@@ -4,7 +4,8 @@
 📍 Jaunpur, Uttar Pradesh, India  
 📞 +91 7054009176  
 📧 tensaibaka007@gmail.com  
-🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://linkedin.com/in/sarvesh-nand)
+🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
@@ -70,7 +71,8 @@ I’m a cybersecurity learner currently pursuing my BCA (2023–2026) with a foc
 
 ## 📫 Contact Me
 
-I’m open to freelance work, internships, collaborations, or just connecting with like-minded professionals. Feel free to reach out via [LinkedIn](https://linkedin.com/in/sarvesh-nand) or [email](mailto:tensaibaka007@gmail.com).
+I’m open to freelance work, internships, collaborations, or just connecting with like-minded professionals. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ or [email](mailto:tensaibaka007@gmail.com).
 
 ---
 
