@@ -6,7 +6,7 @@ Aspiring **Data & Business Analyst** | Excel • SQL • Power BI | Transitionin
 
 📞 +91 7054009176
 
-📧 [Email](mailto:tensaibaka007@gmail.com)
+📧 [Email](tensaibaka007@gmail.com)
 
 🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)
 
