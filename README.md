@@ -1,8 +1,13 @@
 👨‍💻 **Sarvesh Nand**
+
 Aspiring **Data & Business Analyst** | Excel • SQL • Power BI | Transitioning towards **Product/Project Management**
+
 📍 Jaunpur, Uttar Pradesh, India
+
 📞 +91 7054009176
+
 📧 [Email](mailto:tensaibaka007@gmail.com)
+
 🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)
 
 ---
