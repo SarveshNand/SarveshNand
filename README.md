@@ -1,86 +1,85 @@
-# 👨‍💻 **Sarvesh Nand**
+# 👨‍💻 Sarvesh Nand  
 
-Aspiring **Data & Business Analyst** | Excel • SQL • Power BI | Transitioning towards **Product/Project Management**
+**Aspiring Data Engineer & Data Analyst**  
+Excel • SQL • Power BI • Python • Data Pipelines & Cloud (Learning)  
 
-📍 Jaunpur, Uttar Pradesh, India
-
-📞 +91 7054009176
-
-📧 [Email](mailto:tensaibaka007@gmail.com)
-
-🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)
+📍 Jaunpur, Uttar Pradesh, India  
+📞 +91 7054009176  
+📧 [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)  
+🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)  
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-I am a **BCA student (2023–2026)** passionate about **data-driven decision making**. Initially starting with cybersecurity and CTI fundamentals, I discovered my strength and interest in **data and business analytics**. Today, my focus is on using **Excel, SQL, and Power BI** to analyze, visualize, and communicate insights that solve real business problems.
+I am a **BCA student (2023–2026)** passionate about **data engineering and analytics**.  
+Starting from cybersecurity fundamentals, I discovered my true interest in **data** — collecting, cleaning, transforming, and analyzing it to build meaningful insights.  
 
-My long-term goal is to grow as a **Business Data Analyst** and transition into **Product/Project Management** by leveraging my analytical foundation and project experience.
+Currently, I work with **Excel, SQL, Power BI, and Python** to analyze and visualize data while **exploring ETL, databases, and cloud platforms**.  
 
-I am actively open to **full-time, remote, hybrid, contract roles**, and **internships** in **Data/Business Analytics**, along with **freelance projects and collaborations**.
-
----
-
-## 🔐 Core Competencies
-
-* **Data Analytics & Business Insights**
-  Excel (Advanced Formulas, Pivots, Dashboards) | SQL (Joins, Aggregations, Cleaning) | Power BI (KPI Dashboards, Visualization, Storytelling)
-* **Problem Solving & Case Analysis**
-  KPI Identification | Dashboard Building | Data Storytelling | Business Problem-Solution Mapping
-* **Networking & OS Skills** *(from earlier Cyber background, still valuable)*
-  OSI Model, TCP/IP, DNS | Linux CLI | Windows Security Basics
+📌 **Goal:** Become a **Data Engineer** who builds scalable data systems and reliable pipelines.  
 
 ---
 
-## ⚙️ Tools & Platforms
+## 🔑 Core Competencies  
 
-* Excel, SQL, Power BI
-* Kaggle (Data Projects & Certifications)
-* GitHub (Projects & Learning Logs)
+- **Data Analytics & Engineering Foundations**  
+  Excel (Formulas, Pivots, Dashboards) • SQL (Joins, Aggregations, Cleaning) • Python (Data Cleaning, Automation) • Power BI (KPI Dashboards, Visualization)  
 
----
+- **Data Engineering Pathway (Learning)**  
+  Databases • ETL Basics • Data Transformation • Cloud Fundamentals  
 
-## 🧠 Soft Skills
-
-Analytical Mindset • Self-Motivated • Detail-Oriented • Curiosity-Driven
-Languages: Hindi (Native), English (Conversational)
+- **Networking & OS Skills** *(from earlier Cyber background)*  
+  OSI Model • TCP/IP • DNS • Linux CLI • Windows Security Basics  
 
 ---
 
-## 🎓 Education
+## ⚙️ Tools & Platforms  
 
-**Bachelor of Computer Applications (BCA)**
-Veer Bahadur Singh Purvanchal University
-📅 Aug 2023 – Aug 2026 (Expected)
-
-**Senior Secondary School**
-Maa Durga Ji Sr. Sec. School, Siddiquepur, Jaunpur
-📅 May 2015 – Jun 2023
+- **Languages & Tools:** Excel, SQL, Python, Power BI  
+- **Learning Platforms:** Kaggle (Projects & Certifications)  
+- **Version Control:** GitHub (Projects & Learning Logs)  
 
 ---
 
-## 📜 Certifications
+## 🧠 Soft Skills  
 
-* **Foundation Level Threat Intelligence Analyst – arcX** (Jul 2025)
-* **Generative AI for Educators – Google Digital Academy** (Dec 2024)
-  Credential ID: 352890335
-* **Introduction to Programming using Python – Kaggle**
-* **Python (Basic) – Kaggle**
-* **Intro to SQL – Kaggle**
-* **Computer Networking – Cybrary**
-  Certificate ID: CC-0d60f719-609f-4b57-ab01-ef4096d4ce10
-* **Linux CLI – Cybrary**
-  Certificate ID: CC-d05aed71-8c01-466c-94ac-4fc63d0ed29e
+Analytical Thinking • Problem Solving • Detail-Oriented • Curiosity-Driven  
+**Languages:** Hindi (Native), English (Conversational)  
 
 ---
 
-## 📫 Contact Me
+## 🎓 Education  
 
-I’m open to **freelance work, internships, collaborations, and professional opportunities** in **Data & Business Analytics**.
+**Bachelor of Computer Applications (BCA)**  
+*Veer Bahadur Singh Purvanchal University*  
+📅 Aug 2023 – Aug 2026 (Expected)  
 
-💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • 🌐 [GitHub](https://github.com/SarveshNand) • ✉️ [Email](mailto:tensaibaka007@gmail.com)
+**Senior Secondary School**  
+*Maa Durga Ji Sr. Sec. School, Siddiquepur, Jaunpur*  
+📅 May 2015 – Jun 2023  
 
 ---
 
-✨ *Data tells stories. I aim to uncover them and turn them into decisions that matter.*
+## 📜 Certifications  
+
+- **Foundation Level Threat Intelligence Analyst – arcX** (Jul 2025)  
+- **Generative AI for Educators – Google Digital Academy** (Dec 2024) – *Credential ID: 352890335*  
+- **Introduction to Programming using Python – Kaggle**  
+- **Python (Basic) – Kaggle**  
+- **Intro to SQL – Kaggle**  
+- **Computer Networking – Cybrary** – *Cert ID: CC-0d60f719-609f-4b57-ab01-ef4096d4ce10*  
+- **Linux CLI – Cybrary** – *Cert ID: CC-d05aed71-8c01-466c-94ac-4fc63d0ed29e*  
+
+---
+
+## 📫 Contact Me  
+
+Open to **freelance work, internships, collaborations, and professional opportunities** in:  
+**Data Engineering & Data Analytics**  
+
+💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • 🌐 [GitHub](https://github.com/SarveshNand) • ✉️ [Email](mailto:tensaibaka007@gmail.com)  
+
+---
+
+✨ *Data is more than numbers — it’s infrastructure. I aim to build systems that make it reliable, scalable, and useful.*  
