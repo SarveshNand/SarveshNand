@@ -1,7 +1,7 @@
 # 👨‍💻 Sarvesh Nand  
 
-**Aspiring Data Engineer & Data Analyst**  
-Excel • SQL • Power BI • Python • Data Pipelines & Cloud (Learning)  
+**Aspiring Cybersecurity Analyst**  
+Networking • Linux • VMs • Bash • Python Scripting • Cloud Basics • OWASP • Burp Suite • PostgreSQL  
 
 📍 Jaunpur, Uttar Pradesh, India  
 📞 +91 7054009176  
@@ -10,42 +10,55 @@ Excel • SQL • Power BI • Python • Data Pipelines & Cloud (Learning)
 
 ---
 
-## 🧠 About Me  
+## 🔐 About Me  
 
-I am a **BCA student (2023–2026)** passionate about **data engineering and analytics**.  
-Starting from cybersecurity fundamentals, I discovered my true interest in **data** — collecting, cleaning, transforming, and analyzing it to build meaningful insights.  
+I’m a **BCA student (2023–2026)** passionate about **cybersecurity** — from understanding networks and systems to analyzing threats and securing digital environments.
 
-Currently, I work with **Excel, SQL, Power BI, and Python** to analyze and visualize data while **exploring ETL, databases, and cloud platforms**.  
+With a strong foundation in **networking**, **Linux systems**, and **cyber fundamentals**, I’m currently working on **Python scripting**, **PostgreSQL**, and **cloud security basics**. I’ve also started exploring **SIEM tools**, **log analysis**, and **OWASP Top 10 vulnerabilities** using platforms like **Burp Suite** and **TryHackMe**.
 
-📌 **Goal:** Become a **Data Engineer** who builds scalable data systems and reliable pipelines.  
-
----
-
-## 🔑 Core Competencies  
-
-- **Data Analytics & Engineering Foundations**  
-  Excel (Formulas, Pivots, Dashboards) • SQL (Joins, Aggregations, Cleaning) • Python (Data Cleaning, Automation) • Power BI (KPI Dashboards, Visualization)  
-
-- **Data Engineering Pathway (Learning)**  
-  Databases • ETL Basics • Data Transformation • Cloud Fundamentals  
-
-- **Networking & OS Skills** *(from earlier Cyber background)*  
-  OSI Model • TCP/IP • DNS • Linux CLI • Windows Security Basics  
+📌 **Goal:** Break into the industry as a **Cybersecurity Analyst Intern/Fresher**, and grow into advanced roles like **SOC Analyst** or **Penetration Tester** in the future.
 
 ---
 
-## ⚙️ Tools & Platforms  
+## 🛡️ Key Skills  
 
-- **Languages & Tools:** Excel, SQL, Python, Power BI  
-- **Learning Platforms:** Kaggle (Projects & Certifications)  
-- **Version Control:** GitHub (Projects & Learning Logs)  
+- **Cybersecurity Fundamentals**  
+  Threat Landscape • Vulnerability Types • CIA Triad • OWASP Top 10  
+
+- **Networking & OS**  
+  OSI & TCP/IP Models • Subnetting • DNS • VPN • Firewalls • Windows & Linux (Ubuntu/Kali)  
+
+- **Practical Skills**  
+  - **Linux CLI & Bash Scripting**  
+  - **Python for Automation**  
+  - **PostgreSQL (Basic DB Knowledge)**  
+  - **Burp Suite Basics**  
+  - **Virtual Machines (VirtualBox, VMware)**  
+  - **Cloud Fundamentals (IAM, Shared Responsibility)**  
+
+- **Current Learning**  
+  ✅ SIEM & Log Analysis • ✅ Vulnerability Scanning • ✅ Incident Response  
 
 ---
 
-## 🧠 Soft Skills  
+## 🧰 Tools & Platforms  
 
-Analytical Thinking • Problem Solving • Detail-Oriented • Curiosity-Driven  
-**Languages:** Hindi (Native), English (Conversational)  
+- **Tools:** Wireshark • Burp Suite • Nmap • TryHackMe • VirtualBox  
+- **Languages:** Bash • Python (Basics) • SQL (PostgreSQL)  
+- **OS:** Linux (Ubuntu, Kali) • Windows  
+- **Platforms:** TryHackMe • Cybrary • Hack The Box (soon)  
+
+---
+
+## 🎯 Career Objectives  
+
+🔎 Seeking **internships**, **entry-level roles**, or **freelance projects** in:  
+- Cybersecurity Analysis  
+- Threat Hunting & Detection  
+- SOC Operations (Level 1)  
+- Vulnerability Scanning & Testing  
+
+I'm focused on gaining **real-world, hands-on experience** that challenges my current knowledge, helps me grow with mentorship, and contributes to securing digital systems.
 
 ---
 
@@ -55,31 +68,34 @@ Analytical Thinking • Problem Solving • Detail-Oriented • Curiosity-Driven
 *Veer Bahadur Singh Purvanchal University*  
 📅 Aug 2023 – Aug 2026 (Expected)  
 
-**Senior Secondary School**  
-*Maa Durga Ji Sr. Sec. School, Siddiquepur, Jaunpur*  
-📅 May 2015 – Jun 2023  
-
 ---
 
-## 📜 Certifications  
+## 📜 Certifications & Learning  
 
 - **Foundation Level Threat Intelligence Analyst – arcX** (Jul 2025)  
-- **Generative AI for Educators – Google Digital Academy** (Dec 2024) – *Credential ID: 352890335*  
-- **Introduction to Programming using Python – Kaggle**  
+- **Computer Networking – Cybrary**  
+- **Linux CLI – Cybrary**  
 - **Python (Basic) – Kaggle**  
-- **Intro to SQL – Kaggle**  
-- **Computer Networking – Cybrary** – *Cert ID: CC-0d60f719-609f-4b57-ab01-ef4096d4ce10*  
-- **Linux CLI – Cybrary** – *Cert ID: CC-d05aed71-8c01-466c-94ac-4fc63d0ed29e*  
+- **PostgreSQL (Intro) – Self-Learning**  
+- **Generative AI for Educators – Google Digital Academy**  
+
+🧪 *Ongoing:*  
+- **SIEM Tools (Splunk/Elastic) Basics**  
+- **Burp Suite Practice – OWASP Top 10**  
+- **TryHackMe Labs – Threat Detection & Vulnerability Management**  
 
 ---
 
-## 📫 Contact Me  
+## 🌐 Connect With Me  
 
-Open to **freelance work, internships, collaborations, and professional opportunities** in:  
-**Data Engineering & Data Analytics**  
+If you're looking for a **motivated cybersecurity learner** eager to **apply knowledge, contribute, and grow**, feel free to connect:  
 
-💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • 🌐 [GitHub](https://github.com/SarveshNand) • ✉️ [Email](mailto:tensaibaka007@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • 🌐 [GitHub](https://github.com/SarveshNand) • ✉️ [Email](mailto:tensaibaka007@gmail.com)
 
 ---
 
-✨ *Data is more than numbers — it’s infrastructure. I aim to build systems that make it reliable, scalable, and useful.*  
+## 📌 Final Words  
+
+> “Security is a process, not a product.”  
+> I'm here to **learn by doing**, **grow through challenges**, and become a **reliable defender** in the world of cybersecurity.
+> 
