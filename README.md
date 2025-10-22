@@ -16,7 +16,7 @@ I’m a **BCA student (2023–2026)** passionate about **cybersecurity** — fro
 
 With a strong foundation in **networking**, **Linux systems**, and **cyber fundamentals**, I’m currently working on **Python scripting**, **PostgreSQL**, and **cloud security basics**. I’ve also started exploring **SIEM tools**, **log analysis**, and **OWASP Top 10 vulnerabilities** using platforms like **Burp Suite** and **TryHackMe**.
 
-📌 **Goal:** Break into the industry as a **Cybersecurity Analyst Intern/Fresher**, and grow into advanced roles like **SOC Analyst** or **Penetration Tester** in the future.
+📌 **Goal:** Break into the industry as a **Cybersecurity Analyst Intern/Fresher**, and grow into advanced roles like **Cyber Threat Intelligence (CTI) Analyst / Threat Hunter**, **Digital Forensics & Incident Response (DFIR)** or **Cybersecurity Consultant / Advisor** in the future.
 
 ---
 
