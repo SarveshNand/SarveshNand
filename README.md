@@ -1,101 +1,106 @@
-# 👨‍💻 Sarvesh Nand  
+# 👨‍💻 Sarvesh Nand
 
-**Aspiring Cybersecurity Analyst**  
-Networking • Linux • VMs • Bash • Python Scripting • Cloud Basics • OWASP • Burp Suite • PostgreSQL  
-
+**MERN Stack Developer** | **Data Analytics Enthusiast**  
+📊 Turning data into insights | 💻 Building full-stack web solutions  
 📍 Jaunpur, Uttar Pradesh, India  
-📞 +91 7054009176  
 📧 [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)  
-🌐 [GitHub](https://github.com/SarveshNand) • [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • [GitHub](https://github.com/SarveshNand)
 
 ---
 
-## 🔐 About Me  
+## 🚀 About Me
 
-I’m a **BCA student (2023–2026)** passionate about **cybersecurity** — from understanding networks and systems to analyzing threats and securing digital environments.
+Hi! I’m **Sarvesh Nand**, a curious and driven **BCA student (2023–2026)** passionate about building **data-powered applications** using modern web technologies.
 
-With a strong foundation in **networking**, **Linux systems**, and **cyber fundamentals**, I’m currently working on **Python scripting**, **PostgreSQL**, and **cloud security basics**. I’ve also started exploring **SIEM tools**, **log analysis**, and **OWASP Top 10 vulnerabilities** using platforms like **Burp Suite** and **TryHackMe**.
+I'm blending my interests in **web development** and **data analytics** to craft solutions that are not only technically sound but also **insightful** and **impact-driven**.
 
-📌 **Goal:** Break into the industry as a **Cybersecurity Analyst Intern/Fresher**, and grow into advanced roles like **Cyber Threat Intelligence (CTI) Analyst / Threat Hunter**, **Digital Forensics & Incident Response (DFIR)** or **Cybersecurity Consultant / Advisor** in the future.
+Currently honing my skills in the **MERN stack** — building interactive and scalable apps — while also exploring how to use **data analytics** for smarter business and user experiences.
 
----
-
-## 🛡️ Key Skills  
-
-- **Cybersecurity Fundamentals**  
-  Threat Landscape • Vulnerability Types • CIA Triad • OWASP Top 10  
-
-- **Networking & OS**  
-  OSI & TCP/IP Models • Subnetting • DNS • VPN • Firewalls • Windows & Linux (Ubuntu/Kali)  
-
-- **Practical Skills**  
-  - **Linux CLI & Bash Scripting**  
-  - **Python for Automation**  
-  - **PostgreSQL (Basic DB Knowledge)**  
-  - **Burp Suite Basics**  
-  - **Virtual Machines (VirtualBox, VMware)**  
-  - **Cloud Fundamentals (IAM, Shared Responsibility)**  
-
-- **Current Learning**  
-  ✅ SIEM & Log Analysis • ✅ Vulnerability Scanning • ✅ Incident Response  
+### 👁️ My Goal:
+To grow as a developer who bridges the gap between **data intelligence** and **modern web development**, creating solutions that **matter**.
 
 ---
 
-## 🧰 Tools & Platforms  
+## 💡 What I Do
 
-- **Tools:** Wireshark • Burp Suite • Nmap • TryHackMe • VirtualBox  
-- **Languages:** Bash • Python (Basics) • SQL (PostgreSQL)  
-- **OS:** Linux (Ubuntu, Kali) • Windows  
-- **Platforms:** TryHackMe • Cybrary • Hack The Box (soon)  
+- **MERN Stack Development**  
+  MongoDB • Express.js • React.js • Node.js  
 
----
+- **Data Analysis & Visualization**  
+  Python (pandas, matplotlib) • SQL • Jupyter Notebooks  
 
-## 🎯 Career Objectives  
+- **Full Stack Projects**  
+  REST APIs • CRUD Operations • Authentication • Responsive Frontends  
 
-🔎 Seeking **internships**, **entry-level roles**, or **freelance projects** in:  
-- Cybersecurity Analysis  
-- Threat Hunting & Detection  
-- SOC Operations (Level 1)  
-- Vulnerability Scanning & Testing  
-
-I'm focused on gaining **real-world, hands-on experience** that challenges my current knowledge, helps me grow with mentorship, and contributes to securing digital systems.
+- **Technical Writing & Learning in Public**  
+  Sharing knowledge as I go, from data findings to web projects
 
 ---
 
-## 🎓 Education  
+## 🧠 Currently Learning
 
-**Bachelor of Computer Applications (BCA)**  
+- Advanced React Patterns (Hooks, Context, Custom Components)  
+- Backend APIs with Express & MongoDB  
+- Data Visualization Dashboards  
+- Deployments with Vercel & Render  
+- Integrating Analytics into Web Apps
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| 🌐 Frontend | React.js • HTML • CSS • JavaScript |
+| ⚙️ Backend | Node.js • Express.js |
+| 🗃️ Database | MongoDB • PostgreSQL (Basic) |
+| 🧪 Tools | Git • VS Code • Postman • Figma |
+| 📊 Analytics | Python (Pandas, Matplotlib) • SQL |
+| ☁️ Deployment | Vercel • Netlify • Render |
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**  
 *Veer Bahadur Singh Purvanchal University*  
-📅 Aug 2023 – Aug 2026 (Expected)  
+📆 Aug 2023 – Aug 2026 (Expected)
 
 ---
 
-## 📜 Certifications & Learning  
+## 📌 Side Interests
 
-- **Foundation Level Threat Intelligence Analyst – arcX** (Jul 2025)  
-- **Computer Networking – Cybrary**  
-- **Linux CLI – Cybrary**  
-- **Python (Basic) – Kaggle**  
-- **PostgreSQL (Intro) – Self-Learning**  
-- **Generative AI for Educators – Google Digital Academy**  
+Even though my focus is currently on web dev and data, I have hands-on experience in:
 
-🧪 *Ongoing:*  
-- **SIEM Tools (Splunk/Elastic) Basics**  
-- **Burp Suite Practice – OWASP Top 10**  
-- **TryHackMe Labs – Threat Detection & Vulnerability Management**  
+- **Linux & Bash**
+- **Cybersecurity Fundamentals** (TryHackMe, OWASP, Burp Suite)
+- **Cloud Basics** (IAM, Shared Responsibility Model)
+
+> These give me a well-rounded tech foundation that enhances my development approach.
 
 ---
 
-## 🌐 Connect With Me  
+## 📈 GitHub Stats
 
-If you're looking for a **motivated cybersecurity learner** eager to **apply knowledge, contribute, and grow**, feel free to connect:  
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarveshNand&show_icons=true&theme=radical)
 
-💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • 🌐 [GitHub](https://github.com/SarveshNand) • ✉️ [Email](mailto:tensaibaka007@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshNand&layout=compact&theme=radical)
 
 ---
 
-## 📌 Final Words  
+## 📫 Let's Connect
 
-> “Security is a process, not a product.”  
-> I'm here to **learn by doing**, **grow through challenges**, and become a **reliable defender** in the world of cybersecurity.
-> 
+I’m always up for learning, collaboration, or just geeking out over code and data.  
+
+📬 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/)  
+🌐 [GitHub](https://github.com/SarveshNand)  
+✉️ [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)
+
+---
+
+## 🔖 Quote I Live By
+
+> "In God we trust, all others must bring data." – W. Edwards Deming
+
+---
+
