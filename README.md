@@ -1,8 +1,8 @@
 # 👨‍💻 Sarvesh Nand
 
-**MERN Stack Developer** | **Data Analytics Enthusiast**  
-📊 Turning data into insights | 💻 Building full-stack web solutions  
-📍 Jaunpur, Uttar Pradesh, India  
+**AI Engineer in Training | NLP & Generative AI**
+🤖 Building intelligent systems with Machine Learning & LLMs
+📍 Jaunpur, Uttar Pradesh, India
 📧 [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/sarvesh-nand-903a94284/) • [GitHub](https://github.com/SarveshNand)
 
@@ -10,53 +10,67 @@
 
 ## 🚀 About Me
 
-Hi! I’m **Sarvesh Nand**, a curious and driven **BCA student (2023–2026)** passionate about building **data-powered applications** using modern web technologies.
+Hi! I'm Sarvesh Nand, a BCA student (2023–2026) focused on becoming an AI Engineer specializing in Natural Language Processing and Generative AI systems.
 
-I'm blending my interests in **web development** and **data analytics** to craft solutions that are not only technically sound but also **insightful** and **impact-driven**.
+I enjoy building systems where data, machine learning, and modern AI models combine to create intelligent applications.
 
-Currently honing my skills in the **MERN stack** — building interactive and scalable apps — while also exploring how to use **data analytics** for smarter business and user experiences.
+My current focus is on developing strong foundations in:
+
+* **Machine Learning**
+* **Deep Learning**
+* **Natural Language Processing**
+* **Large Language Models**
+* **AI Application Development**
 
 ### 👁️ My Goal:
-To grow as a developer who bridges the gap between **data intelligence** and **modern web development**, creating solutions that **matter**.
+My goal is to work on **next-generation AI systems** such as **LLM-powered applications, AI agents, and intelligent automation tools**.
 
 ---
 
-## 💡 What I Do
+## 🧠 Current Learning Focus
 
-- **MERN Stack Development**  
-  MongoDB • Express.js • React.js • Node.js  
+- **🤖 Artificial Intelligence**  
+  * Machine Learning fundamentals
+  * Deep Learning with PyTorch
+  * Natural Language Processing (primary focus)
+  * Computer Vision (secondary)
+  * Time Series Forecasting (exploration)
 
-- **Data Analysis & Visualization**  
-  Python (pandas, matplotlib) • SQL • Jupyter Notebooks  
+- **🧩 Generative AI**  
+  * LLM architecture & prompting
+  * Retrieval Augmented Generation (RAG)
+  * AI application development
+  * LLM evaluation techniques 
 
-- **Full Stack Projects**  
-  REST APIs • CRUD Operations • Authentication • Responsive Frontends  
-
-- **Technical Writing & Learning in Public**  
-  Sharing knowledge as I go, from data findings to web projects
+- **⚙️ AI Systems Engineering**  
+  * AI pipelines
+  * LLMOps concepts
+  * Model deployment
+  * Cloud fundamentals 
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced React Patterns (Hooks, Context, Custom Components)  
-- Backend APIs with Express & MongoDB  
-- Data Visualization Dashboards  
-- Deployments with Vercel & Render  
-- Integrating Analytics into Web Apps
+## 🎯 Career Goals
+I aim to build expertise for roles such as:
+- **AI Engineer**
+- **Generative AI Engineer**
+- **LLMOps Engineer**
+- **Agentic AI Engineer**
+Long-term, I want to contribute to **building scalable AI systems and intelligent agents** that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Domain | Technologies |
-|--------|--------------|
-| 🌐 Frontend | React.js • HTML • CSS • JavaScript |
-| ⚙️ Backend | Node.js • Express.js |
-| 🗃️ Database | MongoDB • PostgreSQL (Basic) |
-| 🧪 Tools | Git • VS Code • Postman • Figma |
-| 📊 Analytics | Python (Pandas, Matplotlib) • SQL |
-| ☁️ Deployment | Vercel • Netlify • Render |
+| Domain     | Technologies                           |
+| ---------- | -------------------------------------- |
+| 🧠 AI/ML   | Python • Scikit-learn • PyTorch        |
+| 📊 Data    | SQL • Pandas • NumPy                   |
+| 🧾 NLP     | NLTK • spaCy • Transformers (learning) |
+| 🤖 GenAI   | LLM APIs • Prompt Engineering • RAG    |
+| 🌐 AI Apps | FastAPI • Streamlit                    |
+| ☁️ Cloud   | Cloud Fundamentals (learning)          |
+| 🧰 Tools   | Git • VS Code • Jupyter Notebook       |
 
 ---
 
@@ -68,13 +82,13 @@ To grow as a developer who bridges the gap between **data intelligence** and **m
 
 ---
 
-## 📌 Side Interests
+## 🧪 Areas of Interest
 
-Even though my focus is currently on web dev and data, I have hands-on experience in:
-
-- **Linux & Bash**
-- **Cybersecurity Fundamentals** (TryHackMe, OWASP, Burp Suite)
-- **Cloud Basics** (IAM, Shared Responsibility Model)
+- Natural Language Processing
+- Generative AI
+- LLM-based Applications
+- AI Agents & Automation
+- Model Optimization & Deployment
 
 > These give me a well-rounded tech foundation that enhances my development approach.
 
@@ -100,7 +114,7 @@ I’m always up for learning, collaboration, or just geeking out over code and d
 
 ## 🔖 Quote I Live By
 
-> "In God we trust, all others must bring data." – W. Edwards Deming
+> “Without data, you're just another person with an opinion.” — W. Edwards Deming
 
 ---
 
