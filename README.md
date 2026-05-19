@@ -30,7 +30,7 @@ Based in Uttar Pradesh, India. Open to internship and software engineering oppor
 | Java               | OOP, Collections Framework, Streams, Exception Handling, Multithreading      |
 | DSA                | Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, Dynamic Programming |
 | Backend            | REST APIs, Spring Boot, Authentication, Database Integration                 |
-| Databases          | SQL, joins, indexing, schema design, query optimization                      |
+| Databases          | PostgreSQL, joins, indexing, schema design, query optimization               |
 | CS Fundamentals    | DBMS, Operating Systems, Computer Networks                                   |
 | Future Exploration | System Design, Cloud, Infrastructure, Distributed Systems, AI                |
 
@@ -38,12 +38,12 @@ Based in Uttar Pradesh, India. Open to internship and software engineering oppor
 
 ## Projects I'm building
 
-| Project                 | Description                                                       | Tech                       |
-| ----------------------- | ----------------------------------------------------------------- | -------------------------- |
-| DSA Practice Repository | Structured DSA problems with explanations and optimized solutions | Java                       |
-| Student Management API  | REST API with CRUD operations and database integration            | Java · Spring Boot · MySQL |
-| Expense Tracker Backend | Backend service for tracking expenses and transactions            | Java · SQL                 |
-| Authentication System   | JWT-based authentication and role-based authorization             | Spring Security            |
+| Project                 | Description                                                       | Tech                            |
+| ----------------------- | ----------------------------------------------------------------- | ------------------------------- |
+| DSA Practice Repository | Structured DSA problems with explanations and optimized solutions | Java                            |
+| Student Management API  | REST API with CRUD operations and database integration            | Java · Spring Boot · PostgreSQL |
+| Expense Tracker Backend | Backend service for tracking expenses and transactions            | Java · PostgreSQL               |
+| Authentication System   | JWT-based authentication and role-based authorization             | Spring Security                 |
 
 ---
 
@@ -52,7 +52,7 @@ Based in Uttar Pradesh, India. Open to internship and software engineering oppor
 ```txt id="f4m2n8"
 Java             ███████░░░░░░  Core Java + backend fundamentals
 DSA              ██████░░░░░░░  Consistent problem-solving practice
-SQL              ███████░░░░░░  Queries, joins, schema design
+PostgreSQL       ███████░░░░░░  Queries, joins, schema design
 Git & GitHub     ████████░░░░░  Version control and collaboration
 Backend Dev      █████░░░░░░░░  APIs, databases, authentication
 CS Fundamentals  █████░░░░░░░░  DBMS, OS, CN fundamentals
