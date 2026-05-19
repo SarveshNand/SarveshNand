@@ -1,58 +1,88 @@
-# Sarvesh Nand — Financial Data Analyst
- 
-I analyze financial data to find patterns that matter. Currently building a portfolio focused on fintech transaction analysis, fraud detection patterns, and financial health modeling using SQL, Python, and Power BI.
- 
-Based in Uttar Pradesh, India. Open to fintech and BFSI analyst roles in India and internationally.
- 
+# Sarvesh Nand — Java Backend Developer
+
+I’m a BCA student focused on Java backend development, Data Structures & Algorithms, and backend engineering fundamentals.
+
+Currently learning Java deeply while building projects, improving problem-solving skills, and strengthening computer science fundamentals including DBMS, Operating Systems, and Computer Networks.
+
+I’m not an expert yet, but I’m consistent, disciplined, and willing to put in the work required to become a strong software engineer.
+
+Interested in backend systems, scalable applications, system design, cloud infrastructure, distributed systems, and AI.
+
+Based in Uttar Pradesh, India. Open to internship and software engineering opportunities across India and globally.
+
 ---
- 
-## What I'm building
- 
-| Project | What it does | Tools |
-|---|---|---|
-| Fintech Fraud Pattern Analysis | Analyzes 6M+ synthetic payment transactions to identify fraud patterns by type, time, and amount | SQL · Python · Power BI |
-| Indian Fintech Comparison | Financial health analysis of Paytm, Razorpay, CRED, Zerodha using public data | Python · Pandas · Power BI |
-| Personal Finance Behavior Analysis | Spending pattern analysis identifying behaviors that predict financial stress | SQL · Python · Matplotlib |
- 
+
+## What I'm focusing on
+
+* Java backend development
+* Data Structures & Algorithms
+* Problem solving and coding practice
+* Backend fundamentals and APIs
+* Database design and SQL
+* Computer science fundamentals
+
 ---
- 
+
+## Current learning roadmap
+
+| Area               | Learning                                                                     |
+| ------------------ | ---------------------------------------------------------------------------- |
+| Java               | OOP, Collections Framework, Streams, Exception Handling, Multithreading      |
+| DSA                | Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, Dynamic Programming |
+| Backend            | REST APIs, Spring Boot, Authentication, Database Integration                 |
+| Databases          | SQL, joins, indexing, schema design, query optimization                      |
+| CS Fundamentals    | DBMS, Operating Systems, Computer Networks                                   |
+| Future Exploration | System Design, Cloud, Infrastructure, Distributed Systems, AI                |
+
+---
+
+## Projects I'm building
+
+| Project                 | Description                                                       | Tech                       |
+| ----------------------- | ----------------------------------------------------------------- | -------------------------- |
+| DSA Practice Repository | Structured DSA problems with explanations and optimized solutions | Java                       |
+| Student Management API  | REST API with CRUD operations and database integration            | Java · Spring Boot · MySQL |
+| Expense Tracker Backend | Backend service for tracking expenses and transactions            | Java · SQL                 |
+| Authentication System   | JWT-based authentication and role-based authorization             | Spring Security            |
+
+---
+
 ## Technical skills
- 
+
+```txt id="f4m2n8"
+Java             ███████░░░░░░  Core Java + backend fundamentals
+DSA              ██████░░░░░░░  Consistent problem-solving practice
+SQL              ███████░░░░░░  Queries, joins, schema design
+Git & GitHub     ████████░░░░░  Version control and collaboration
+Backend Dev      █████░░░░░░░░  APIs, databases, authentication
+CS Fundamentals  █████░░░░░░░░  DBMS, OS, CN fundamentals
 ```
-SQL          ████████████░░  Advanced — window functions, CTEs, complex joins
-Python       ████████░░░░░░  Pandas, NumPy, Matplotlib, yfinance
-Power BI     ███████░░░░░░░  Dashboards, DAX measures, drill-through reports
-Statistics   ████████░░░░░░  Distributions, correlation, trend analysis
-Finance      ███████░░░░░░░  Financial statements, ratios, fintech business models
-```
- 
+
 ---
- 
-## Domain focus — why finance specifically
- 
-Financial data is the most consequential data there is. It tells us how businesses actually behave, how fraud actually happens, and where systems actually break. I'm interested in using data to answer questions that matter - not just building dashboards, but finding things that weren't visible before.
- 
-Long term: quantitative finance and algorithmic systems.
- 
+
+## Philosophy
+
+I care more about strong fundamentals than shortcuts.
+
+Right now my focus is simple:
+
+* learn deeply
+* build consistently
+* improve problem-solving ability
+* write cleaner code every day
+
+I believe strong engineers are built through discipline, curiosity, and long-term consistency.
+
 ---
- 
-## Currently learning
- 
-- SQL window functions and query optimization -> Mode Analytics
-- Python pandas for financial data manipulation -> Kaggle
-- Financial statement analysis -> Zerodha Varsity
-- Power BI DAX for financial metrics
----
- 
+
 ## Education
- 
+
 BCA — Veer Bahadur Singh Purvanchal University (2023–2026)
- 
+
 ---
- 
+
 ## Contact
- 
-- Email: tensaibaka007@gmail.com
-- LinkedIn: linkedin.com/in/sarvesh-nand-903a94284
-- Open to: Data Analyst roles at fintechs, BFSI companies, and analytics teams
- 
+
+* Email: [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)
+* LinkedIn: linkedin.com/in/sarvesh-nand-903a94284
+* Open to: Internship and Software Engineering opportunities
