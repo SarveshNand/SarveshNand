@@ -66,6 +66,7 @@ Git & GitHub     ████████░░░░░  Version control and co
 CS Fundamentals  █████░░░░░░░░  DBMS, Operating Systems, Computer Networks
 
 ---
+```
 
 ## Philosophy
 
