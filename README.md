@@ -1,57 +1,57 @@
-# Sarvesh Nand — Java Backend Developer
+Sarvesh Nand | Backend Developer
 
 BCA graduate from Uttar Pradesh, India.
-Building backend systems with Java and Spring Boot.
 
-I write code daily, push everything here, and focus on
-understanding how systems actually work under the hood.
-No half-finished tutorials. No certificate collecting.
-Just consistent work and a clear direction.
+I approach software engineering with curiosity about how systems work under the hood,not just how to make code run. I'm interested in the reasoning behind software design, what breaks under load, and how to build backend systems that remain reliable as they grow.
 
-Open to junior developer roles, backend internships,
-and trainee positions across India and internationally.
+I started with Java to develop a strong understanding of object-oriented programming and to better understand the architecture of the Java ecosystem. That foundation shaped how I think about software design, memory management, and backend development.
 
----
+Today, I build backend applications with Python and FastAPI, focusing on clean API design, reliable database architecture, and AI integration. Every project I build is deployed, documented, and pushed here, no abandoned tutorials or unfinished experiments.
 
-## What I'm Building With
+Beyond application development, I'm actively learning about distributed systems, backend architecture, infrastructure, scalability, and security because I want to understand what makes production systems reliable.
 
-- Java -> Core language, OOP, Collections, Exception Handling
-- Spring Boot -> REST APIs, Dependency Injection, MVC
-- SQL and PostgreSQL -> Database design, queries, optimization
-- Git -> Version control, daily commits
-- REST APIs -> Building and consuming
+I value consistency over shortcuts. I enjoy figuring things out, improving with every project, and shipping software that solves real problems.
 
 ---
 
-## Currently Learning
+Tech Stack
 
-| Area | Focus |
-| :--- | :--- |
-| **Core Java** | OOP, Collections, Multithreading basics |
-| **Spring Boot** | REST APIs, Spring MVC, JPA |
-| **Databases** | PostgreSQL, Schema design, Query optimization |
-| **DSA** | Arrays, Strings, HashMaps, Problem solving |
-| **AI Integration** | Spring AI, calling LLM APIs from Java backend |
+- Languages: Python, Java, SQL
+- Backend: FastAPI, REST APIs
+- Databases: PostgreSQL
+- Version Control: Git & GitHub
+- Currently Exploring: AI integration, distributed systems, backend architecture, system design, and application security
 
 ---
 
-## Projects
+Currently Learning
 
-### 🔧 Coming Soon
-Currently building first Spring Boot project.
-Check back in 4 weeks.
-
----
-
-## Education
-
-**BCA** — Veer Bahadur Singh Purvanchal University *(2023–2026)*
+Area| Focus
+Backend Development| FastAPI, API architecture, authentication
+Databases| PostgreSQL, schema design, query optimization
+System Design| Scalability, caching, distributed systems
+AI Integration| LLM APIs, AI-powered backend applications
+DSA| Problem solving, data structures, algorithms
 
 ---
 
-## Contact
+Projects
 
-- **Email:** tensaibaka007@gmail.com
-- **LinkedIn:** [linkedin.com/in/sarvesh-nand-903a94284](https://linkedin.com/in/sarvesh-nand-903a94284)
-- **Open to:** Junior Java Developer · Backend Intern · 
-  Software Engineer Trainee · Anywhere in India or Remote
+Currently building production-style backend projects with FastAPI.
+
+Each project is designed to solve a real problem, deployed online, and fully documented.
+
+---
+
+Education
+
+Bachelor of Computer Applications (BCA)
+Veer Bahadur Singh Purvanchal University (2023–2026) - 75%
+
+---
+
+Contact
+
+- Email: tensaibaka007@gmail.com
+- LinkedIn: linkedin.com/in/sarvesh-nand-903a94284
+- Open to: Backend Developer · Backend Intern · Software Engineer Trainee · Remote or Anywhere in India
