@@ -1,4 +1,4 @@
-# Sarvesh Nand | Backend Developer
+# Sarvesh Nand | Backend Engineer
 
 BCA graduate from Uttar Pradesh, India.
 
@@ -6,67 +6,69 @@ BCA graduate from Uttar Pradesh, India.
 
 ## About Me
 
-I approach software engineering with curiosity about how systems work under the hood-not just how to make code run. I'm interested in the reasoning behind software design, what breaks under load, and how to build backend systems that remain reliable as they grow.
+I'm passionate about backend engineering and building systems that are reliable, scalable, and designed with long-term maintainability in mind.
 
-I started with Java to develop a strong understanding of object-oriented programming and to better understand the architecture of the Java ecosystem. That foundation shaped how I think about software design, memory management, and backend development.
+What interests me most isn't just writing code-it's understanding why software is built the way it is. I enjoy exploring how applications communicate, how memory is managed, what happens under heavy traffic, and how architecture decisions affect performance and reliability.
 
-Today, I build backend applications with **Python** and **FastAPI**, focusing on clean API design, reliable database architecture, and AI integration. Every project I build is deployed, documented, and pushed here-no abandoned tutorials or unfinished experiments.
+I started learning Java to build a strong foundation in object-oriented programming and to understand the JVM and the Java ecosystem from the ground up. I'm currently focused on Java and Spring Boot while expanding my knowledge of backend architecture, system design, distributed systems, concurrency, databases, networking, and application security.
 
-Beyond application development, I'm actively learning about distributed systems, backend architecture, infrastructure, scalability, and security because I want to understand what makes production systems reliable.
+My hands-on backend experience began with Python and FastAPI, where I built REST APIs, designed databases, and deployed complete applications. Those projects helped me develop practical engineering skills that I'm now carrying into the Java ecosystem.
 
-I value consistency over shortcuts. I enjoy figuring things out, improving with every project, and shipping software that solves real problems.
+I believe software engineering is about solving problems, not being tied to a particular language. My goal is to build large-scale backend systems that power real products used by thousands or millions of users.
+
+I value curiosity, consistency, and continuous learning. Every project I build teaches me something new about designing better software.
 
 ---
 
 ## Tech Stack
 
-- **Languages:** Python, Java, SQL
-- **Backend:** FastAPI, REST APIs
-- **Databases:** PostgreSQL
-- **Version Control:** Git & GitHub
-- **Currently Exploring:** AI integration, distributed systems, backend architecture, system design, application security
+* **Languages:** Java, Python, SQL
+* **Backend:** Spring Boot (Learning), FastAPI, REST APIs
+* **Databases:** PostgreSQL
+* **Version Control:** Git & GitHub
+* **Currently Exploring:** JVM internals, distributed systems, system design, backend architecture, concurrency, networking, application security
 
 ---
 
 ## Currently Learning
 
-| Area | Focus |
-|------|------|
-| Backend Development | FastAPI, API architecture, authentication |
-| Databases | PostgreSQL, schema design, query optimization |
-| System Design | Scalability, caching, distributed systems |
-| AI Integration | LLM APIs, AI-powered backend applications |
-| DSA | Problem solving, data structures, algorithms |
+| Area              | Focus                                                         |
+| ----------------- | ------------------------------------------------------------- |
+| Java Backend      | Spring Boot, Spring MVC, Spring Data JPA, Spring Security     |
+| Java Fundamentals | Collections, Generics, Multithreading, JVM, Memory Management |
+| Databases         | PostgreSQL, Query Optimization, Database Design               |
+| System Design     | Scalability, Caching, Distributed Systems, Messaging          |
+| DSA               | Data Structures, Algorithms, Problem Solving                  |
 
 ---
 
 ## Projects
 
-Currently building production-style backend projects with FastAPI.
+I'm building production-style backend applications while transitioning into the Java ecosystem.
 
-Each project is designed to solve a real problem, deployed online, and fully documented.
+My goal is to develop projects that demonstrate clean architecture, scalable backend design, database modeling, authentication, deployment, and production-ready engineering practices.
 
 ---
 
 ## Open Source
 
-I’m starting to contribute to open source projects focused on backend systems, APIs, and developer tools.
+I'm interested in contributing to open-source projects related to Java, Spring Boot, backend infrastructure, developer tools, and distributed systems.
 
-My focus is on Python, FastAPI, and database-related projects where I can contribute meaningful improvements while learning real world engineering practices through collaboration.
+As I continue learning, I hope to contribute meaningful improvements while collaborating with experienced engineers and understanding how large software projects are built and maintained.
 
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA)**  
-Veer Bahadur Singh Purvanchal University (2023–2026)  
+**Bachelor of Computer Applications (BCA)**
+Veer Bahadur Singh Purvanchal University (2023–2026)
 **75%**
 
 ---
 
 ## Contact
 
-- **Email:** tensaibaka007@gmail.com 
-- **LinkedIn:** linkedin.com/in/sarvesh-nand-903a94284  
-- **X(Formerly Twitter):** https://x.com/npcnegotiator   
-- **Open to:** Backend Developer · Backend Intern · Software Engineer Trainee · Remote or Anywhere in India
+* **Email:** [tensaibaka007@gmail.com](mailto:tensaibaka007@gmail.com)
+* **LinkedIn:** linkedin.com/in/sarvesh-nand-903a94284
+* **X (formerly Twitter):** https://x.com/npcnegotiator
+* **Open to:** Backend Engineer · Java Developer · Software Engineer · Software Engineering Intern · Remote or Anywhere in India
