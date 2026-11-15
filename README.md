@@ -273,12 +273,15 @@ Veer Bahadur Singh Purvanchal University · 📅 2023 – 2026
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SarveshNand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sarvesh's GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshNand&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://img.shields.io/github/followers/SarveshNand?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshNand&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=SarveshNand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/SarveshNand" alt="Contribution Graph" />
 </p>
 
 ---
